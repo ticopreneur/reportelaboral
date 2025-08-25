@@ -1,3 +1,4 @@
+import 'fake-indexeddb/auto';
 import { describe, it, expect, vi } from 'vitest';
 import { queue, drain, type OutboxItem } from './outbox';
 
