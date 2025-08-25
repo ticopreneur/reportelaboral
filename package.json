@@ -1,0 +1,7 @@
+{
+  "name": "reportelaboral",
+  "private": true,
+  "scripts": {
+    "test": "npm --prefix pwa test"
+  }
+}
