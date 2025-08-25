@@ -1,0 +1,9 @@
+{
+  "name": "ADVICE Time Tracker",
+  "short_name": "AdviceTracker",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": []
+}
